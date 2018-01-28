@@ -40,7 +40,7 @@ public class GiantModel {
 
     @Override
     public String toString() {
-        return "\nGiantModel" +
+        return "GiantModel" +
                 "\n\thealth=" + health +
                 "\n\tfatigue=" + fatigue +
                 "\n\tnorishment=" + norishment;
